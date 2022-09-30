@@ -92,6 +92,8 @@ if (score < 60) {
 var myFavoriteNumbers = [4,8,12,16,20,24];
 // Do not edit the code above.
 
+
+
 /*
   Create a variable named 'someNum' and set it equal to the fifth value of the
    'myFavoriteNumbers' array.
@@ -100,6 +102,8 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 
 let someNum = myFavoriteNumbers.slice(4, 5)
 console.log(someNum)
+
+
 
 
 
